@@ -1,7 +1,10 @@
 package main
 
-import rl "github.com/gen2brain/raylib-go/raylib"
-import "fmt"
+import (
+	"fmt"
+
+	rl "github.com/gen2brain/raylib-go/raylib"
+)
 
 func main() {
 
